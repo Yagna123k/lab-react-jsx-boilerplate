@@ -1,1 +1,19 @@
 /* add your styles here */
+
+body{
+    text-align: center;
+}
+
+.parent_div{
+    width: 100%;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.image_div{
+    width: 48%;
+    margin: 10px;
+}
